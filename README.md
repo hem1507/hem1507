@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hemantika.
-- 👀 I’m interested in Data Analyst roles.
+- 👀 I’m interested in Data Analysis gigs.
 - 🌱 I’m currently learning Python for data analysis
 - 📫 You can reach me at hemantikaa.mondal@gmail.com
 
